@@ -21,7 +21,7 @@ ACCENT_GREEN = "#10B981"
 ACCENT_ORANGE = "#F97316"
 MUTED_BLUE = "#64748B"
 
-DATA_PATH = "data/superstore.csv"
+DATA_PATH = "sales-forecast-dashboard/data/superstore.csv"
 
 
 def get_template():
